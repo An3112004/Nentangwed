@@ -1,0 +1,15 @@
+.font_weight{
+    font-weight: 600;
+}
+
+*{
+    box-sizing: border-box;
+}
+.container{
+    background-color:antiquewhite;
+    padding: 80px;
+    border: 2px solid red;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
